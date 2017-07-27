@@ -28,9 +28,10 @@ The code will look like the following:
 To build and run the examples in this book, you need either Linux or macOS; you will also
 need npm/Node.js. At the time of writing, the author tested the examples with the
 following software:
-npm v.5.2.0
-node v.8.1.1
-Ubuntu 16.04 LTS, Windows 10, and macOS Sierra 10.12
+
+* npm v.5.2.0
+* node v.8.1.1
+* Ubuntu 16.04 LTS, Windows 10, and macOS Sierra 10.12
 
 ## Related Products
 * [Building ArcGIS Cross-Platform Applications with JavaScript [Video]](https://www.packtpub.com/application-development/building-arcgis-cross-platform-applications-javascript?utm_source=github&utm_medium=repository&utm_campaign=9781787289949)
