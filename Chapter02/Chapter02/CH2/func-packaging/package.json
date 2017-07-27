@@ -1,0 +1,26 @@
+{
+  "name": "file-explorer",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "build:js": "webpack",
+    "protect:js": "node_modules/nw/nwjs/nwjc app/bundle.js app/app.bin",
+    "cleanup:js": "rm app/bundle.js",
+    "build": "npm run build:js && npm run protect:js && npm run cleanup:js",
+    "start": "nw ./app --enable-transparent-visuals --disable-gpu",
+    "package": "nwb nwbuild -v 0.21.3-sdk ./app -o ./dist --output-format=ZIP",
+    "package:run": "nwb nwbuild -v 0.21.3-sdk ./app -o ./dist -p linux64 -r  -- --enable-transparent-visuals --disable-gpu"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nw": "sdk",
+    "webpack": "^2.2.1"
+  },
+  "dependencies": {
+    "filesize": "^3.5.5",
+    "minimist": "^1.2.0"
+  }
+}

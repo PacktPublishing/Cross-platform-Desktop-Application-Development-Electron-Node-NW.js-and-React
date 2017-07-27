@@ -1,0 +1,21 @@
+{
+  "name": "ts-beginning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example.js",
+  "scripts": {
+    "start": "node build/example.js",
+    "build": "tsc",
+    "v": "tsc -v"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^8.0.2",
+    "typescript": "^2.3.4"
+  },
+  "dependencies": {
+    "feedme": "^1.0.0"
+  }
+}

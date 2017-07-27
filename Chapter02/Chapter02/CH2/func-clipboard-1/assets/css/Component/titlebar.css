@@ -1,0 +1,21 @@
+.titlebar {
+  background-color: var(--titlebar-bg-color);
+  color: var(--titlebar-fg-color);
+  padding: 0.8em 0.6em;
+  position: sticky;
+  top: 0;
+
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: stretch;
+  -webkit-user-select: none;
+  -webkit-app-region: drag;
+}
+.titlebar__path {
+  flex: 1 1 auto;
+}
+.titlebar__btn {
+  flex: 0 0 25px;
+  cursor: pointer;
+  -webkit-app-region: no-drag;
+}

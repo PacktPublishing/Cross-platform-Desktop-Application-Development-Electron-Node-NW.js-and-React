@@ -1,0 +1,23 @@
+.footer {
+  border-top: 1px solid var(--separator-color);
+  background-color: var(--footer-bg-color);
+  padding: 0.4em 0.6em;
+  position: sticky;
+  bottom: 0;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-end;
+}
+
+.footer__label {
+  margin-right: 0.2em;
+  font-size: 1.4em;
+  margin-top: 0.1em;
+}
+.footer__header {
+  margin: 0.2em auto 0 0;
+  font-size: 1em;
+}
+.footer__select {
+  font-size: 1em;
+}

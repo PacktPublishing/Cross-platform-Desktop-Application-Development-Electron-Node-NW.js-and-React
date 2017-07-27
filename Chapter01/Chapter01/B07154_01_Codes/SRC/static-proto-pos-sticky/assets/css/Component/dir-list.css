@@ -1,0 +1,6 @@
+.dir-list {
+  padding: 0;
+  background-color: var(--dirlist-bg-color);
+  color: var(--dirlist-fg-color);
+  border-right: 1px solid var(--separator-color);
+}

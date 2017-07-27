@@ -1,0 +1,17 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "removeComments": false,
+    "noImplicitAny": true,
+    "outDir": "./build",
+    "noUnusedParameters": false,
+    "noUnusedLocals": false
+  },
+  "files": [
+    "example.ts"
+  ]
+}

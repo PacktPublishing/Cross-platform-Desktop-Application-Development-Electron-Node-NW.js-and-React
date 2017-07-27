@@ -1,0 +1,48 @@
+{
+  "name": "screen-capturer",
+  "version": "1.0.0",
+  "description": "Screen Capturer",
+  "main": "index.html",
+  "scripts": {
+    "start": "nw .",
+    "dev": "webpack -d --watch",
+    "build": "webpack"
+  },
+  "chromium-args": "--mixed-context",
+  "window": {
+    "show": true,
+    "frame": false,
+    "width": 580,
+    "height": 320,
+    "min_width": 450,
+    "min_height": 320,
+    "position": "center",
+    "resizable": true,
+    "icon": "./assets/icon-48x48.png"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blob-to-buffer": "^1.2.6",
+    "material-ui": "^0.18.0",
+    "prop-types": "^15.5.6",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-redux": "^5.0.4",
+    "redux": "^3.6.0",
+    "redux-act": "^1.2.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.23.0",
+    "babel-core": "^6.22.1",
+    "babel-loader": "^6.2.10",
+    "babel-plugin-transform-class-properties": "^6.23.0",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-preset-es2017": "^6.22.0",
+    "babel-preset-react": "^6.22.0",
+    "babel-preset-stage-3": "^6.24.1",
+    "nw": "0.21.6-sdk",
+    "react-tap-event-plugin": "^2.0.1",
+    "webpack": "^2.5.1"
+  }
+}

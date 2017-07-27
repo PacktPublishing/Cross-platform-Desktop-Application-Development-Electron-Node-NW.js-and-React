@@ -1,0 +1,1 @@
+{"version":3,"file":"example-mapped-types.js","sourceRoot":"","sources":["../example-mapped-types.ts"],"names":[],"mappings":"AAAA,IAAO,kBAAkB,CAWxB;AAXD,WAAO,kBAAkB;IAQvB,IAAI,KAAK,GAAQ,EAAE,GAAG,EAAE,CAAC,EAAE,KAAK,EAAE,GAAG,EAAE,IAAI,EAAE,CAAC,EAAE,CAAC;IACjD,MAAM,UAAU,GAAW,KAAK,CAAC,GAAG,CAAC;IACrC,iBAAiB;AACnB,CAAC,EAXM,kBAAkB,KAAlB,kBAAkB,QAWxB"}

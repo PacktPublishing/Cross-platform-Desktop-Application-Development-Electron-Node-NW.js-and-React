@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>File Explorer</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+    <link href="./assets/css/app.css" rel="stylesheet" type="text/css">
+  </head>
+  <body class="l-app">
+
+    <header class="l-app__titlebar titlebar" data-bind="titlebar">
+      <span class="titlebar__path">/home/sheiko/Sites/file-explorer</span>
+      <a class="titlebar__btn" title="Minimize window">_</a>
+      <a class="titlebar__btn is-hidden" title="Restore window">⊠</a>
+      <a class="titlebar__btn" title="Maximize window">◻</a>
+      <a class="titlebar__btn" data-bind="close" title="Close window">×</a>
+    </header>
+    <div class="l-app__main l-main">
+      <aside class="l-main__dir-list dir-list">
+        <nav>
+          <ul>
+            <li class="dir-list__li"><i class="icon">folder</i>..</li>
+            <li class="dir-list__li"><i class="icon">folder</i>assets</li>
+            <li class="dir-list__li"><i class="icon">folder</i>js</li>
+            <li class="dir-list__li"><i class="icon">folder</i>node_modules</li>
+            <li class="dir-list__li"><i class="icon">folder</i>tests</li></ul>
+        </nav>
+      </aside>
+      <main class="l-main__file-list file-list">
+        <nav>
+          <ul>
+            <li class="file-list__li file-list__head">
+            <span class="file-list__li__name">Name</span>
+            <span class="file-list__li__size">Size</span>
+            <span class="file-list__li__time">Modified</span>
+            </li>
+            <li class="file-list__li">
+              <span class="file-list__li__name">index.html</span>
+              <span class="file-list__li__size">1.71 KB</span>
+              <span class="file-list__li__time">3/3/2017, 15:44:19</span>
+            </li>
+            <li class="file-list__li">
+              <span class="file-list__li__name">package.json</span>
+              <span class="file-list__li__size">539 B</span>
+              <span class="file-list__li__time">3/3/2017, 17:53:19</span>
+            </li>
+          </ul>
+        </nav>
+      </main>
+    </div>
+   <footer class="l-app__footer footer">
+      <h2 class="footer__header">File Explorer</h2>
+      <label class="icon footer__label">language</label>
+      <select class="footer__select">
+        <option value="en-US">English</option>
+        <option value="de-DE">Deutsch</option>
+      </select>
+    </footer>
+
+    <script src="./js/app.js"></script>
+  </body>
+</html>

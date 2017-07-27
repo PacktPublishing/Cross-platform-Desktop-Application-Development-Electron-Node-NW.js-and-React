@@ -1,0 +1,13 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "main": "./app/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "devtron": "^1.4.0",
+    "electron": "^1.6.2",
+    "electron-debug": "^1.1.0"
+  }
+}

@@ -1,0 +1,4 @@
+.file-list {
+  background-color: var(--filelist-bg-color);
+  color: var(--filelist-fg-color);
+}

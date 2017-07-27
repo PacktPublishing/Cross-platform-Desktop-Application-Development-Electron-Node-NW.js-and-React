@@ -1,0 +1,69 @@
+{
+  "name": "rss-aggregator",
+  "title": "RSS Aggregator",
+  "version": "1.0.0",
+  "main": "./app/main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "webpack",
+    "dev": "webpack -d --watch",
+    "lint": "tslint --project tsconfig.json",
+    "test": "jest --verbose",
+    "test:watch": "npm test -- --watch"
+  },
+  "jest": {
+    "moduleFileExtensions": [
+      "ts",
+      "tsx",
+      "js"
+    ],
+    "transform": {
+      "^.+\\.(ts|tsx)$": "./jest-preprocessor.js"
+    },
+    "testRegex": "/app/ts/.*\\.spec\\.(ts|tsx)$"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.2",
+    "@types/react": "^15.0.33",
+    "@types/react-dom": "^15.5.1",
+    "@types/react-mdl": "^1.7.19",
+    "@types/react-redux": "^4.4.36",
+    "@types/redux": "^3.6.31",
+    "@types/redux-actions": "^1.2.6",
+    "@types/redux-promise": "^0.5.24",
+    "@types/redux-thunk": "^2.1.31",
+    "@types/request": "0.0.45",
+    "@types/sha1": "^1.1.0",
+    "css-loader": "^0.28.4",
+    "devtron": "^1.4.0",
+    "electron": "^1.7.3",
+    "electron-debug": "^1.1.0",
+    "electron-devtools-installer": "^2.2.0",
+    "jest": "^20.0.4",
+    "nock": "^9.0.6",
+    "node-sass": "^4.5.3",
+    "react-test-renderer": "^15.4.2",
+    "sass-loader": "^6.0.1",
+    "source-map-loader": "^0.2.1",
+    "style-loader": "^0.18.2",
+    "ts-loader": "^2.2.0",
+    "tslint": "^5.4.3",
+    "typescript": "^2.3.4",
+    "webpack": "^3.0.0"
+  },
+  "dependencies": {
+    "dom-storage": "^2.0.2",
+    "feedme": "^1.0.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-mdl": "^1.9.0",
+    "react-redux": "^5.0.2",
+    "redux": "^3.7.1",
+    "redux-actions": "^2.0.3",
+    "redux-promise": "^0.5.3",
+    "redux-thunk": "^2.2.0",
+    "request": "^2.81.0",
+    "sha1": "^1.1.1",
+    "whatwg-fetch": "^2.0.3"
+  }
+}

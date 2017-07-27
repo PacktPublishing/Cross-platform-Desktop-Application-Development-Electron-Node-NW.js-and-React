@@ -1,0 +1,5 @@
+.titlebar {
+  background-color: var(--titlebar-bg-color);
+  color: var(--titlebar-fg-color);
+  padding: 0.8em 0.6em;
+}

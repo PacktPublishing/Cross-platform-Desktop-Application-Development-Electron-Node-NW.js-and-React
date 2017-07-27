@@ -1,0 +1,41 @@
+html {
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  font-size: 13px;
+  line-height: 20px;
+  margin: 0;
+}
+
+.titlebar {
+  -webkit-user-select: none;
+  -webkit-app-region: drag;
+}
+
+.titlebar button {
+  -webkit-app-region: no-drag;
+}
+
+.preview {
+  position: absolute;
+  left: -999px;
+  top: -999px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+.tab-layout {
+  display: flex;
+  flex-flow: row nowrap;
+  padding: 12px;
+}
+.tab-layout__item {
+  flex: 1 1 auto;
+}
+
+video {
+  object-fit: cover;
+  visibility: hidden;
+}

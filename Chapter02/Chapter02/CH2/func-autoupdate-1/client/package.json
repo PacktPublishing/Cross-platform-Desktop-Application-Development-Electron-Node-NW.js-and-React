@@ -1,0 +1,38 @@
+{
+  "name": "file-explorer",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.html",
+  "manifestUrl": "http://127.0.0.1:8080/package.json",
+  "scripts": {
+    "start": "nw . --enable-transparent-visuals --disable-gpu",
+    "package": "nwb nwbuild -v 0.21.3-sdk . -o ../server/releases --output-format=ZIP",
+    "postversion": "npm run package"
+  },
+  "chromium-args": "--mixed-context",
+  "window": {
+    "show": true,
+    "frame": false,
+    "width": 1000,
+    "height": 600,
+    "min_width": 800,
+    "min_height": 400,
+    "position": "center",
+    "resizable": true,
+    "transparent": true,
+    "icon": "icon-48x48.png"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fs-jetpack": "^0.12.0",
+    "mock-fs": "^4.1.0",
+    "nw": "^0.20.3-sdk"
+  },
+  "dependencies": {
+    "filesize": "^3.5.5",
+    "minimist": "^1.2.0",
+    "nw-autoupdater": "^1.0.2"
+  }
+}

@@ -1,0 +1,33 @@
+.file-list {
+  background-color: var(--filelist-bg-color);
+  color: var(--filelist-fg-color);
+}
+
+.file-list__li {
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+.file-list__li:not(.file-list__head){
+  cursor: pointer;
+}
+.file-list__li:not(.file-list__head):hover {
+  color: var(--filelist-fg-hover-color);
+}
+.file-list__li > * {
+  flex: 1 1 auto;
+  padding: 0.8em 0.8em;
+  overflow: hidden;
+}
+
+.file-list__li__name {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  width: 50%;
+}
+.file-list__li__time {
+  width: 35%;
+}
+.file-list__li__size {
+  width: 15%;
+}

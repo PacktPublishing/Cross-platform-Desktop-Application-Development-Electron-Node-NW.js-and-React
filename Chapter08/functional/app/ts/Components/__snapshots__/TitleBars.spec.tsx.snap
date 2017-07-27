@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TitleBar renders correctly 1`] = `
+<header
+  className="mdl-layout__header mdl-layout__header--scroll"
+>
+  <div
+    className="mdl-layout__header-row"
+  >
+    <span
+      className="mdl-layout-title"
+    >
+      RSS Aggregator
+    </span>
+    <div
+      className="mdl-layout-spacer"
+    />
+    <nav
+      className="mdl-navigation"
+    >
+      <a
+        className="mdl-navigation__link"
+        href="#"
+        onClick={[Function]}
+      >
+        <i
+          className="material-icons"
+        >
+          close
+        </i>
+      </a>
+    </nav>
+  </div>
+</header>
+`;

@@ -1,0 +1,14 @@
+:root {
+  --titlebar-bg-color: rgba(45, 45, 45, 0.9);
+  --titlebar-fg-color: #dcdcdc;
+  --dirlist-bg-color: rgba(222, 222, 222, 0.95);
+  --dirlist-fg-color: #636363;
+  --filelist-bg-color: rgba(249, 249, 249, 0.95);
+  --filelist-fg-color: #333341;
+  --dirlist-w: 250px;
+  --titlebar-h: 40px;
+  --footer-h: 40px;
+  --footer-bg-color: rgba(222, 222, 222, 0.95);
+  --separator-color: #2d2d2d;
+  --border-radius: 0;
+}

@@ -1,0 +1,15 @@
+.l-chat {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: stretch;
+}
+.l-chat-conversation {
+  flex: 1 1 auto;
+  overflow-y: auto;
+}
+.l-chat-form {
+  flex: 0 0 110px;
+}
+.media-body__time {
+  float: right;
+}

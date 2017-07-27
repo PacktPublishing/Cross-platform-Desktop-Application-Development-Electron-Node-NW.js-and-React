@@ -1,0 +1,33 @@
+{
+  "name": "file-explorer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "nw .",
+    "test": "nw tests/unit-tests"
+  },
+  "chromium-args": "--mixed-context",
+  "window": {
+    "show": true,
+    "frame": true,
+    "width": 1000,
+    "height": 600,
+    "min_width": 800,
+    "min_height": 400,
+    "position": "center",
+    "resizable": true,
+    "icon": "icon-48x48.png"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "fs-jetpack": "^0.12.0",
+    "mock-fs": "^4.1.0",
+    "nw": "^0.20.3-sdk"
+  },
+  "dependencies": {
+    "filesize": "^3.5.5"
+  }
+}

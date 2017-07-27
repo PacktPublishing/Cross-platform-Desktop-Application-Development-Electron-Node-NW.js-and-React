@@ -1,0 +1,28 @@
+.modal {
+  background-color: rgba(0, 0, 0, 0.7);
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  border-radius:  var(--border-radius);
+}
+.modal__window {
+  border-top: 1px solid var(--separator-color);
+  background-color: var(--footer-bg-color);
+  padding: 1.2em 1.6em;
+  max-width: 400px;
+  width: 80%;
+  border-radius:  var(--border-radius);
+}
+.modal__progress {
+  width: 100%;
+}
+.modal_btn {
+  margin-top: 1em;
+  font-size: 1em;
+}

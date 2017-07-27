@@ -1,0 +1,22 @@
+{
+  "name": "release-server",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "packages": {
+    "linux64": {
+      "url": "http://localhost:8080/releases/file-explorer-linux-x64.zip",
+      "size": 98443303
+    }
+  },
+  "scripts": {
+    "start": "http-server .",
+    "update": "node update.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}

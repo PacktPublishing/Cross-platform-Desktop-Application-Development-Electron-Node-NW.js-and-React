@@ -1,0 +1,46 @@
+$headrHeight: 66px;
+
+.main-wrapper {
+  height: 100vh;
+  position: relative;
+}
+
+.feed-index {
+  display: flex;
+  flex-flow: row nowrap;
+  overflow-y: auto;
+  height: calc(100vh - #{$headrHeight});
+  &.is-open {
+    overflow-y: hidden;
+  }
+}
+.feed-list {
+  flex: 1 0 auto;
+  width: 100%;
+  transition: width 200ms ease;
+}
+.feed-contents {
+  flex: 1 0 auto;
+  width: 0;
+  transition: width 200ms ease;
+}
+.feed-contents__src {
+  width: 100%;
+  height: 100%;
+  overflow-y: auto;
+}
+
+.is-open .feed-list {
+  width: 50%;
+}
+.is-open .feed-contents {
+  width: 50%;
+}
+
+
+.tools {
+  height: 60px;
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+}

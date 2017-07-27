@@ -1,0 +1,34 @@
+{
+  "name": "rss-aggregator",
+  "title": "RSS Aggregator",
+  "version": "1.0.0",
+  "main": "./app/main.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "electron .",
+    "dev": "webpack -d --watch"
+  },
+  "devDependencies": {
+    "@types/node": "^8.0.2",
+    "@types/react": "^15.0.33",
+    "@types/react-dom": "^15.5.1",
+    "@types/react-mdl": "^1.7.19",
+    "css-loader": "^0.28.4",
+    "electron": "^1.7.3",
+    "electron-debug": "^1.2.0",
+    "electron-devtools-installer": "^2.2.0",
+    "node-sass": "^4.5.3",
+    "sass-loader": "^6.0.1",
+    "source-map-loader": "^0.2.1",
+    "style-loader": "^0.18.2",
+    "ts-loader": "^2.2.0",
+    "typescript": "^2.3.4",
+    "webpack": "^3.0.0"
+  },
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-mdl": "^1.10.3",
+    "redux": "^3.7.1"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start:client": "http-server . -o",
+    "start:server": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "dependencies": {
+    "nodejs-websocket": "^1.7.1"
+  },
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}

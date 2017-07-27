@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Jasmine Spec Runner</title>
+
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/jasmine/2.5.2/jasmine.css">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/2.5.2/jasmine.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/2.5.2/jasmine-html.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jasmine/2.5.2/boot.js"></script>
+
+</head>
+<body>
+  <div id="sandbox" style="display: none">
+    </div>
+
+    <script>
+      // Catch exception and report them to the console.
+      process.on( "uncaughtException", ( err ) => console.error( err ) );
+
+      const path = require( "path" ),
+            jetpack = require( "fs-jetpack" ),
+            matchingSpecs = jetpack.find( "../../js", {
+                matching: [
+                  "*.spec.js",
+                  "!node_modules/**"
+                ]
+            }, "relativePath" );
+      matchingSpecs.forEach(( file ) => {
+        require( path.join( __dirname, file ) );
+      });
+
+    </script>
+</body>
+</html>

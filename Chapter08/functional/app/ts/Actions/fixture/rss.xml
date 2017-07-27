@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
+
+<channel>
+	<title>CSS-Tricks</title>
+
+	<link>https://css-tricks.com</link>
+	<description>Tips, Tricks, and Techniques on using Cascading Style Sheets.</description>
+	<lastBuildDate>Mon, 20 Feb 2017 03:30:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.2</generator>
+<site xmlns="com-wordpress:feed-additions:1">45537868</site>	<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/CssTricks" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="csstricks" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+		<title>“lives in a sort of purgatory”</title>
+		<link>http://bradfrost.com/blog/post/frontend-design/</link>
+		<comments>https://css-tricks.com/lives-sort-purgatory/#respond</comments>
+		<pubDate>Sun, 19 Feb 2017 13:51:14 +0000</pubDate>
+		<dc:creator><![CDATA[Chris Coyier]]></dc:creator>
+				<category><![CDATA[Link]]></category>
+		<category><![CDATA[job titles]]></category>
+
+		<guid isPermaLink="false">https://css-tricks.com/?p=251694</guid>
+		<description><![CDATA[<p>Brad Frost:</p>
+<p>A front-end designer ... lives in a sort of purgatory between worlds:</p>
+<ul>
+<li>They understand UX principles and best practices, but may not spend their time conducting research, creating flows, and planning scenarios</li>
+<li>They have a keen eye for aesthetics, but may not spend their time pouring over font pairings, comparing color palettes, or creating illustrations and icons.</li>
+<li>They can write JavaScript, but may not spend their time writing application-level code, wiring up middleware, or debugging.</li>
+<li>They understand the </li>
+</ul>
+<p>&#8230;</p>
+<hr />
+<p><small><a rel="nofollow" href="https://css-tricks.com/lives-sort-purgatory/">&#8220;lives in a sort of purgatory&#8221;</a> is a post from <a rel="nofollow" href="https://css-tricks.com">CSS-Tricks</a></small></p>
+]]></description>
+				<content:encoded><![CDATA[<p>Brad Frost:</p>
+<blockquote>
+<p>A front-end designer ... lives in a sort of purgatory between worlds:</p>
+<ul>
+<li>They understand UX principles and best practices, but may not spend their time conducting research, creating flows, and planning scenarios</li>
+<li>They have a keen eye for aesthetics, but may not spend their time pouring over font pairings, comparing color palettes, or creating illustrations and icons.</li>
+<li>They can write JavaScript, but may not spend their time writing application-level code, wiring up middleware, or debugging.</li>
+<li>They understand the importance of backend development, but may not spend their time writing backend logic, spinning up servers, load testing, etc.</li>
+</ul>
+</blockquote>
+<p><a href="https://css-tricks.com/front-end-developer-aware/">A front-end developer is aware.</a></p>
+<p><a href="http://bradfrost.com/blog/post/frontend-design/" title="Direct link to featured article">Direct Link to Article</a> &#8212; <a href="https://css-tricks.com/lives-sort-purgatory/">Permalink</a></p><hr />
+<p><small><a rel="nofollow" href="https://css-tricks.com/lives-sort-purgatory/">&#8220;lives in a sort of purgatory&#8221;</a> is a post from <a rel="nofollow" href="https://css-tricks.com">CSS-Tricks</a></small></p>
+]]></content:encoded>
+			<wfw:commentRss>https://css-tricks.com/lives-sort-purgatory/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">251694</post-id>	</item>
+		<item>
+		<title>“Write a script”</title>
+		<link>https://adactio.com/journal/11879</link>
+		<comments>https://css-tricks.com/write-a-script/#respond</comments>
+		<pubDate>Sat, 18 Feb 2017 15:42:19 +0000</pubDate>
+		<dc:creator><![CDATA[Chris Coyier]]></dc:creator>
+				<category><![CDATA[Link]]></category>
+		<category><![CDATA[psuedo code]]></category>
+
+		<guid isPermaLink="false">https://css-tricks.com/?p=251658</guid>
+		<description><![CDATA[<p>Jeremy Keith, on teaching people JavaScript for the first time:</p>
+<p>A lot of that boils down to this pattern:</p>
+<p>When (some event happens), then (take this action).</p>
+<p>We brainstormed some examples of this e.g. "When the user submits a form, then show a modal dialogue with an acknowledgment." I then encouraged them to write a script …but I don't mean a script in the JavaScript sense; I mean a script in the screenwriting or theater sense. Line by line, write &#8230;</p>
+<hr />
+<p><small><a rel="nofollow" href="https://css-tricks.com/write-a-script/">&#8220;Write a script&#8221;</a> is a post from <a rel="nofollow" href="https://css-tricks.com">CSS-Tricks</a></small></p>
+]]></description>
+				<content:encoded><![CDATA[<p>Jeremy Keith, on teaching people JavaScript for the first time:</p>
+<blockquote>
+<p>A lot of that boils down to this pattern:</p>
+<blockquote><p>When (some event happens), then (take this action).</p></blockquote>
+<p>We brainstormed some examples of this e.g. "When the user submits a form, then show a modal dialogue with an acknowledgment." I then encouraged them to write a script …but I don't mean a script in the JavaScript sense; I mean a script in the screenwriting or theater sense. Line by line, write out each step that you want to accomplish. Once you've done that, translate each line of your English (or Portuguese) script into JavaScript.</p></blockquote>
+<p>Pseudo code. I'm a big fan.</p>
+<p>Writing a code flow out in plain English works great for beginners, and in my experience remains useful forever. I find myself regularly writing pseudo code in Slack and in bug/idea tickets, although I've perhaps graduated from plain English to my own weird non-language:</p>
+<pre><code>IF (user_is_pro? AND has_zero_posts)
+  OR (signed_up_less_than_three_days_ago) {
+    // ajax for stuff
+    // show thing
+}</code></pre>
+<p><a href="https://adactio.com/journal/11879" title="Direct link to featured article">Direct Link to Article</a> &#8212; <a href="https://css-tricks.com/write-a-script/">Permalink</a></p><hr />
+<p><small><a rel="nofollow" href="https://css-tricks.com/write-a-script/">&#8220;Write a script&#8221;</a> is a post from <a rel="nofollow" href="https://css-tricks.com">CSS-Tricks</a></small></p>
+]]></content:encoded>
+			<wfw:commentRss>https://css-tricks.com/write-a-script/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">251658</post-id>	</item>
+		<item>
+		<title>Optimizing GIFs for the Web</title>
+		<link>https://bitsofco.de/optimising-gifs/</link>
+		<comments>https://css-tricks.com/optimizing-gifs-web/#respond</comments>
+		<pubDate>Sat, 18 Feb 2017 15:10:27 +0000</pubDate>
+		<dc:creator><![CDATA[Robin Rendle]]></dc:creator>
+				<category><![CDATA[Link]]></category>
+		<category><![CDATA[gif]]></category>
+		<category><![CDATA[performance]]></category>
+		<category><![CDATA[video]]></category>
+
+		<guid isPermaLink="false">https://css-tricks.com/?p=251606</guid>
+		<description><![CDATA[<p>Ire Aderinokun describes a frustrating problem that we’ve probably all noticed at one point or another:</p>
+<p>Recently, I’ve found that some of my articles that are GIF-heavy tend to get incredibly slow. The reason for this is that each frame in a GIF is stored as a GIF image, which uses a lossless compression algorithm. This means that, during compression, no information is lost in the image at all, which of course results in a larger file size.</p>
+<p>To solve &#8230;</p>
+<hr />
+<p><small><a rel="nofollow" href="https://css-tricks.com/optimizing-gifs-web/">Optimizing GIFs for the Web</a> is a post from <a rel="nofollow" href="https://css-tricks.com">CSS-Tricks</a></small></p>
+]]></description>
+				<content:encoded><![CDATA[<p>Ire Aderinokun describes a frustrating problem that we’ve probably all noticed at one point or another:</p>
+<blockquote>
+<p>Recently, I’ve found that some of my articles that are GIF-heavy tend to get incredibly slow. The reason for this is that each frame in a GIF is stored as a GIF image, which uses a lossless compression algorithm. This means that, during compression, no information is lost in the image at all, which of course results in a larger file size.</p>
+<p>To solve the performance problem of GIFs on the web, there are a couple of things we can do.</p>
+</blockquote>
+<p>Switching to the <code>&lt;video&gt;</code> element seems to have the biggest impact on file size but there are other optimization tools if you have to stick with the GIF format.</p>
+<p><a href="https://bitsofco.de/optimising-gifs/" title="Direct link to featured article">Direct Link to Article</a> &#8212; <a href="https://css-tricks.com/optimizing-gifs-web/">Permalink</a></p><hr />
+<p><small><a rel="nofollow" href="https://css-tricks.com/optimizing-gifs-web/">Optimizing GIFs for the Web</a> is a post from <a rel="nofollow" href="https://css-tricks.com">CSS-Tricks</a></small></p>
+]]></content:encoded>
+			<wfw:commentRss>https://css-tricks.com/optimizing-gifs-web/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">251606</post-id>	</item>
+		<item>
+		<title>CSS Grid: One Layout, Multiple Ways</title>
+		<link>https://css-tricks.com/css-grid-one-layout-multiple-ways/</link>
+		<comments>https://css-tricks.com/css-grid-one-layout-multiple-ways/#comments</comments>
+		<pubDate>Fri, 17 Feb 2017 18:20:43 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff Graham]]></dc:creator>
+				<category><![CDATA[Article]]></category>
+		<category><![CDATA[grid]]></category>
+		<category><![CDATA[holy grail]]></category>
+
+		<guid isPermaLink="false">https://css-tricks.com/?p=251281</guid>
+		<description><![CDATA[<p>I've really been enjoying getting acquainted with <a href="https://css-tricks.com/snippets/css/complete-guide-grid/">CSS Grid</a>. The feature is starting to ship in many browsers and it looks like we'll be able to start using it in production in due time.</p>
+</p>
+<p>One of the things that stands out most to me about CSS Grid is the fact that the syntax is so flexible. To demonstrate this point, we're going to look at how we can create the same layout in three different ways, all using CSS &#8230;</p>
+<hr />
+<p><small><a rel="nofollow" href="https://css-tricks.com/css-grid-one-layout-multiple-ways/">CSS Grid: One Layout, Multiple Ways</a> is a post from <a rel="nofollow" href="https://css-tricks.com">CSS-Tricks</a></small></p>
+]]></description>
+				<content:encoded><![CDATA[<p>I've really been enjoying getting acquainted with <a href="https://css-tricks.com/snippets/css/complete-guide-grid/">CSS Grid</a>. The feature is starting to ship in many browsers and it looks like we'll be able to start using it in production in due time.</p>
+<p><span id="more-251281"></span></p>
+<p>One of the things that stands out most to me about CSS Grid is the fact that the syntax is so flexible. To demonstrate this point, we're going to look at how we can create the same layout in three different ways, all using CSS Grid properties. In particular, we're going to use the <a href="https://en.wikipedia.org/wiki/Holy_Grail_(web_design)">Holy Grail layout</a> as our example:</p>
+<figure id="post-251294" class="align-none media-251294"><img src="https://cdn.css-tricks.com/wp-content/uploads/2017/02/holy-grail-example.jpg" alt="" srcset="https://cdn.css-tricks.com/wp-content/uploads/2017/02/holy-grail-example.jpg 1200w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/holy-grail-example-300x208.jpg 300w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/holy-grail-example-768x532.jpg 768w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/holy-grail-example-1024x710.jpg 1024w" sizes="(min-width: 1654px) 900px,
+       (min-width:   64em) calc( 56vw ),
+       100vw" /></p>
+<figcaption>The Holy Grail Layout</figcaption>
+</figure>
+<p>To get started, we're going to define a parent element called, creatively, <code>.grid</code> and set up three columns and three rows set the stage for our different layout methods:</p>
+<pre rel="CSS"><code class="language-css">.grid {
+  display: grid;
+  grid-template-columns: 150px auto 150px;
+  grid-template-rows: repeat(3, 100px);
+  grid-gap: 1em;
+}</code></pre>
+<p>This says that our <code>.grid</code> element has three columns (two set to 150px and one that flexibly occupies the remaining space) and three row (all set to 100px for demonstration purposes).</p>
+<p>We will also be playing with the following child elements in each example: <code>&lt;header&gt;</code>, <code>&lt;footer&gt;</code> <code>.sidebar-left</code>, <code>sidebar-right</code> and <code>&lt;article&gt;</code>. These will be the building blocks for our layout and will be represented in the HTML as follows:</p>
+<pre rel="HTML"><code class="language-markup">&lt;div class="grid"&gt;
+  &lt;header&gt;
+    Header
+  &lt;/header&gt;
+
+  &lt;aside class="sidebar-left"&gt;
+    Left Sidebar
+  &lt;/aside&gt;
+
+  &lt;article&gt;
+    Article
+  &lt;/article&gt;
+
+  &lt;aside class="sidebar-right"&gt;
+    Right Sidebar
+  &lt;/aside&gt;
+
+  &lt;footer&gt;
+    Footer
+  &lt;/footer&gt;
+&lt;/div&gt;</code></pre>
+<p>Alright, let's re-create this in three ways using CSS Grid!</p>
+<h3>Method 1: Specifying Grid Columns</h3>
+<p>We can define which cells of the grid each child element occupies directly on the elements themselves:</p>
+<pre rel="CSS"><code class="language-css">header {
+  /* Start on Row 1 */
+  grid-row: 1;
+  /* Start on the first column line and extend all the to the last column line */
+  grid-column: 1 / 4;
+}
+
+.sidebar-left {
+  /* Start on Row 2 */
+  grid-row: 2;
+  /* Start on the first column line and stop at the next column line */
+  grid-column: 1 / 2;
+}
+
+article {
+  /* Start on Row 2 */
+  grid-row: 2;
+  /* Start on the second column line and stop at the third column line */
+  grid-column: 2 / 3;
+}
+
+.sidebar-right {
+  /* Start on Row 2 */
+  grid-row: 2;
+  /* Start on the third column line and stop at the last column line */
+  grid-column: 3 / 4;
+}
+
+footer {
+  /* Start on Row 3, the last row */
+  grid-row: 3;
+  /* Start on the first column line and extend all the to the last column line */
+  grid-column: 1 / 4;
+}</code></pre>
+<p data-height="391" data-theme-id="1" data-slug-hash="GrYgex" data-default-tab="result" data-user="geoffgraham" data-embed-version="2" data-pen-title="CSS Grid - Holy Grail 1" class="codepen">See the Pen <a href="http://codepen.io/geoffgraham/pen/GrYgex/">CSS Grid - Holy Grail 1</a> by Geoff Graham (<a href="http://codepen.io/geoffgraham">@geoffgraham</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<p>That gives us everything we need to create the layout! We can do better, though, so let's move right along.</p>
+<h3>Method 2: Condense the Markup from the First Method</h3>
+<p>CSS Grid is smart enough to calculate where our sidebars and article go if all we do is specify where the <code>&lt;header&gt;</code> and <code>&lt;footer&gt;</code> go:</p>
+<pre rel="CSS"><code class="language-css">header, footer {
+  grid-column: 1 / 4;
+}</code></pre>
+<p>That's it! since we've identified that both the <code>&lt;header&gt;</code> and <code>&lt;footer&gt;</code> should take up the full width of the <code>.grid</code> element, CSS Grid will flow the rest of the elements into their place without us having to tell it anything else. Nice!</p>
+<p data-height="389" data-theme-id="1" data-slug-hash="rjrLXB" data-default-tab="result" data-user="geoffgraham" data-embed-version="2" data-pen-title="CSS Grid - Holy Grail 2" class="codepen">See the Pen <a href="http://codepen.io/geoffgraham/pen/rjrLXB/">CSS Grid - Holy Grail 2</a> by Geoff Graham (<a href="http://codepen.io/geoffgraham">@geoffgraham</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<h3>Method 3: Defining Grid Template Areas</h3>
+<p>CSS Grid also allows us to name our elements using the <code>grid-area</code> property and place them on the parent element using the <code>grid-template-areas</code> property.</p>
+<p>Let's name our child elements using <code>grid-area</code>:</p>
+<pre rel="CSS"><code class="language-css">header {
+  grid-area: header;
+}
+
+footer {
+  grid-area: footer;
+}
+
+.sidebar-left {
+  grid-area: sidebar-1;
+}
+
+article {
+  grid-area: article;
+}
+
+.sidebar-right {
+  grid-area: sidebar-2;
+}</code></pre>
+<p>Now, let's name those areas on the parent <code>.grid</code> element using <code>grid-template-areas</code>:</p>
+<pre rel="CSS"><code class="language-css">.grid {
+  display: grid;
+  grid-template-columns: 150px auto 150px;
+  grid-template-rows: repeat(3, 100px);
+  grid-gap: 1em;
+  grid-template-areas: "header header header"
+                       "sidebar-1 article sidebar-2"
+                       "footer footer footer";
+}</code></pre>
+<p>See how we can create the layout by adding the named areas on the property? That's almost like having a visual editor right in our code! </p>
+<p data-height="389" data-theme-id="1" data-slug-hash="ggBbqe" data-default-tab="result" data-user="geoffgraham" data-embed-version="2" data-pen-title="CSS Grid - Holy Grail 3" class="codepen">See the Pen <a href="http://codepen.io/geoffgraham/pen/ggBbqe/">CSS Grid - Holy Grail 3</a> by Geoff Graham (<a href="http://codepen.io/geoffgraham">@geoffgraham</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<h3>Wrapping Up</h3>
+<p>We could definitely go much deeper into the greatness that is CSS Grid, but I wanted to dig specifically into how flexible the syntax is when it comes to creating layouts, particularly one that used to be such a pain to create in the days of floats.</p>
+<p>Are there other ways we could achieve the Holy Grail layout using CSS Grid that we haven't covered here? Submit a comment and let us know and we'd be happy to add it in.</p>
+<hr />
+<p><small><a rel="nofollow" href="https://css-tricks.com/css-grid-one-layout-multiple-ways/">CSS Grid: One Layout, Multiple Ways</a> is a post from <a rel="nofollow" href="https://css-tricks.com">CSS-Tricks</a></small></p>
+]]></content:encoded>
+			<wfw:commentRss>https://css-tricks.com/css-grid-one-layout-multiple-ways/feed/</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">251281</post-id>	</item>
+		<item>
+		<title>Responsive Images in WordPress with Cloudinary, Part 1</title>
+		<link>https://css-tricks.com/responsive-images-wordpress-cloudinary-part-1/</link>
+		<comments>https://css-tricks.com/responsive-images-wordpress-cloudinary-part-1/#comments</comments>
+		<pubDate>Thu, 16 Feb 2017 16:04:26 +0000</pubDate>
+		<dc:creator><![CDATA[Joe McGill]]></dc:creator>
+				<category><![CDATA[Sponsored]]></category>
+		<category><![CDATA[cloudinary]]></category>
+		<category><![CDATA[responsive images]]></category>
+
+		<guid isPermaLink="false">https://css-tricks.com/?p=251460</guid>
+		<description><![CDATA[<p>In this post we'll look at a brief history of responsive images and why they are so important for performant websites. Then we'll look at how WordPress helps automate that, and ultimately how the whole situation gets a lot better by leveraging Cloudinary.</p>
+<hr />
+<p><small><a rel="nofollow" href="https://css-tricks.com/responsive-images-wordpress-cloudinary-part-1/">Responsive Images in WordPress with Cloudinary, Part 1</a> is a post from <a rel="nofollow" href="https://css-tricks.com">CSS-Tricks</a></small></p>
+]]></description>
+				<content:encoded><![CDATA[<p>If you're reading this, you're probably already familiar with responsive images. Even so, it may be helpful to have a little background. (Then we'll get to the WordPress part, and how to make them even better with Cloudinary.) For most of the Web's existence, any time you wanted to include an image on a web page, you would create markup that looked like this:</p>
+<pre rel="HTML"><code class="language-markup">&lt;img src="/path/to/my/image.jpg" alt="a very nice image"&gt;</code></pre>
+<p>In this example, the <code>&lt;img&gt;</code> element references a single image file named `image.jpg` located on a server at `/path/to/my`. This markup is straightforward in that it tells the browser to download and render a specific image file, referenced by the <code>src</code> element, onto the web page.</p>
+<p>This arrangement was fine until 2010, when Ethan Marcotte published his seminal article, <a href="http://synd.co/2lz8gHa">Responsive Web Design</a>, which popularized the technique of using Cascading Style Sheet media queries to modify the layout of web pages to fit whatever size device a person is using. Responsive web design also increased interest in optimizing the performance of websites based on screen size. This focus made clear just how big a pain point images are for performance, accounting for <a href="http://synd.co/2kuymu0">most of the bytes included on each web page</a>. With responsive design, developers began to send images that look beautiful on large desktop displays to all users, which resulted in sending extra bytes to smaller mobile devices, making the mobile browsing experience much slower than necessary.</p>
+<figure id="post-251570" class="align-none media-251570"><img src="https://cdn.css-tricks.com/wp-content/uploads/2017/02/bad.png" alt="" srcset="https://cdn.css-tricks.com/wp-content/uploads/2017/02/bad.png 4000w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/bad-150x150.png 150w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/bad-300x300.png 300w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/bad-768x768.png 768w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/bad-1024x1024.png 1024w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/bad-90x90.png 90w" sizes="(min-width: 1654px) 900px,
+       (min-width:   64em) calc( 56vw ),
+       100vw" /></p>
+<figcaption>Not good.</figcaption>
+</figure>
+<p>An intrepid group of web developers, known as the <a href="http://synd.co/2kbGMKY">Responsive Issues Community Group</a> (RICG), set out to fix this problem by <a href="http://synd.co/2kAZTwr">introducing new HTML</a> so that developers could identify different image sources for a web page based on contextual information like screen size. Here’s an example of one of the new markup patterns:</p>
+<pre rel="HTML"><code class="language-markup">&lt;img src="small.jpg"
+     srcset="large.jpg 1024w, medium.jpg 640w, small.jpg 320w"
+     sizes="(min-width: 36em) 33.3vw, 100vw"
+     alt="A rad wolf"&gt;</code></pre>
+<p>In this example, the <code>&lt;img&gt;</code> markup now includes two new attributes: a <code>srcset</code>, which contains a list of image files and their corresponding pixel widths, and <code>sizes</code>, which gives the browser an estimate of the image’s intended layout size, depending on certain media query conditions. The src attribute is included to serve as a fallback for older browsers that don't support the new <code>srcset</code> and <code>sizes</code> attributes.</p>
+<figure id="post-251571" class="align-none media-251571"><img src="https://cdn.css-tricks.com/wp-content/uploads/2017/02/good.png" alt="" srcset="https://cdn.css-tricks.com/wp-content/uploads/2017/02/good.png 4000w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/good-150x150.png 150w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/good-300x300.png 300w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/good-768x768.png 768w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/good-1024x1024.png 1024w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/good-90x90.png 90w" sizes="(min-width: 1654px) 900px,
+       (min-width:   64em) calc( 56vw ),
+       100vw" /></p>
+<figcaption>Much better.</figcaption>
+</figure>
+<p>This new markup allows browsers to determine and download the image that’s most appropriate, saving bytes (and time) for users. For a deeper dive into this and other responsive image markup patterns, I strongly recommend reading Jason Grigsby’s <a href="http://synd.co/2kQAdKA">Responsive Images 101</a> series.</p>
+<h3>Responsive Images in WordPress</h3>
+<p>At the end of 2015, in partnership with members of the RICG, WordPress shipped version 4.4, which included <a href="http://synd.co/2kXzWIc">native support for responsive images</a>. WordPress 4.4+ automatically generates <code>srcset</code> and <code>sizes</code> attributes for images included in a post or page. The WordPress implementation uses already-available image resizing functionality to accomplish this task. Before version 4.4, WordPress already created several smaller versions of any image uploaded to your media library. Since version 4.4, WordPress uses those additional sizes to create <code>srcset</code> attributes so that people visiting your site can benefit by downloading an image file that is no larger than what they need.</p>
+<p>This implementation works well out of the box but has a few limitations. For instance, WordPress creates image size variations at the time the original is uploaded, which means that only image sizes that are defined at that point will be available in <code>srcset</code> attributes. In addition, image processing can overtax the resources available on many shared hosting plans, so WordPress has to be conservative about how many variations of each image it creates by default.</p>
+<p>Ideally, you could dynamically create image sizes when they're needed for your layouts and offload the processing to an external image service. Fortunately, services like <a href="http://synd.co/2l22OyH">Cloudinary</a> exist, which do exactly this. I've been impressed with the work Cloudinary has been doing in the image management space, so I was wanted to see how I could use the service to extend the default responsive image implementation in WordPress.</p>
+<h3>Using Cloudinary to Extend WordPress</h3>
+<p><a href="http://synd.co/2l22OyH">Cloudinary</a> provides <a href="http://synd.co/2kQAPjm">tools to perform several image transformations</a> besides simple resizing, and it has published <a href="http://synd.co/2kAWFcl">its own WordPress plug-in</a> to the WordPress.org plug‑in repository. The plug‑in doesn't yet support responsive images out of the box, so I wanted to see if I could make a slimmed-down plug‑in using its Image Upload application programming interface. My goal was to sync images from my media library to <a href="http://synd.co/2l22OyH">Cloudinary's</a> service and have Cloudinary automatically create the image sizes needed to serve responsive images from its content delivery network (CDN).</p>
+<p>I've created a demo plug‑in, <a href="http://synd.co/2l11AUh">which I have published to GitHub</a>, so that you can check it out. In a follow-up article, I'll explain more of the technical details and design decisions of the plug‑in, but for now I’ll describe what the plug‑in does at a high level.</p>
+<figure id="post-251572" class="align-none media-251572"><img src="https://cdn.css-tricks.com/wp-content/uploads/2017/02/upload-path.png" alt="" srcset="https://cdn.css-tricks.com/wp-content/uploads/2017/02/upload-path.png 4000w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/upload-path-300x225.png 300w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/upload-path-768x576.png 768w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/upload-path-1024x768.png 1024w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/upload-path-399x300.png 399w" sizes="(min-width: 1654px) 900px,
+       (min-width:   64em) calc( 56vw ),
+       100vw" /></figure>
+<p>First, when you add an image to your WordPress media library, WordPress uses <a href="http://synd.co/2lsj2Cf">Cloudinary's PHP integration library</a> to upload that image to Cloudinary and task its service with creating alternative image sizes to be used in the <code>srcset</code> attribute. Where this gets interesting is that Cloudinary has developed a unique <a href="http://synd.co/2kANb0t">responsive image breakpoint solution</a> that automatically calculates the optimal image sizes needed based on the content of your image.</p>
+<figure id="post-251573" class="align-none media-251573"><img src="https://cdn.css-tricks.com/wp-content/uploads/2017/02/annotated-code.png" alt="" srcset="https://cdn.css-tricks.com/wp-content/uploads/2017/02/annotated-code.png 3700w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/annotated-code-300x122.png 300w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/annotated-code-768x311.png 768w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/annotated-code-1024x415.png 1024w" sizes="(min-width: 1654px) 900px,
+       (min-width:   64em) calc( 56vw ),
+       100vw" /></figure>
+<p>Once the image is uploaded to Cloudinary, the service returns data associated with the newly created image sizes to your WordPress site. By making use of WordPress filters, we can use that data to build <code>srcset</code> attributes for our images that reference the files from the <a href="http://synd.co/2l22OyH">Cloudinary</a> CDN rather than locally hosted images.</p>
+<h3>Wrap-Up</h3>
+<p>By combining the simplicity of the WordPress native responsive image functionality with the image management tools that <a href="http://synd.co/2l22OyH">Cloudinary</a> provides, you can manage your content exactly how you want while providing visitors to you site with images that are automatically optimized for the capabilities of their device, without having to worry about each image added to your site individually. In my next article, I'll dive into the specifics of the code I developed for my plug‑in. For now, I hope you can see how powerful combining WordPress with services like Cloudinary can be.</p>
+<hr>
+<p><em>This post (and the plugin!) was written by <a href="https://joemcgill.net/">Joe McGill</a>.</em></p>
+<hr />
+<p><small><a rel="nofollow" href="https://css-tricks.com/responsive-images-wordpress-cloudinary-part-1/">Responsive Images in WordPress with Cloudinary, Part 1</a> is a post from <a rel="nofollow" href="https://css-tricks.com">CSS-Tricks</a></small></p>
+]]></content:encoded>
+			<wfw:commentRss>https://css-tricks.com/responsive-images-wordpress-cloudinary-part-1/feed/</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">251460</post-id>	</item>
+		<item>
+		<title>Transparent JPG (With SVG)</title>
+		<link>https://css-tricks.com/transparent-jpg-svg/</link>
+		<comments>https://css-tricks.com/transparent-jpg-svg/#comments</comments>
+		<pubDate>Thu, 16 Feb 2017 15:44:33 +0000</pubDate>
+		<dc:creator><![CDATA[Chris Coyier]]></dc:creator>
+				<category><![CDATA[Article]]></category>
+		<category><![CDATA[clipping]]></category>
+		<category><![CDATA[SVG]]></category>
+		<category><![CDATA[transparency]]></category>
+
+		<guid isPermaLink="false">https://css-tricks.com/?p=251557</guid>
+		<description><![CDATA[<p>Let's say you have a photographic image that really should be a JPG or WebP, for the best file size and quality. But what if I need transparency too? Don't I need PNG for that? Won't that make for either huge file sizes (PNG-24) or weird quality (PNG-8)? Let's look at another way that ends up best-of-both-worlds.</p>
+</p>
+<p>The original photographic image.</p>
+<p>The goal is to clip myself out of the image, removing the background. My technique for that is usually &#8230;</p>
+<hr />
+<p><small><a rel="nofollow" href="https://css-tricks.com/transparent-jpg-svg/">Transparent JPG (With SVG)</a> is a post from <a rel="nofollow" href="https://css-tricks.com">CSS-Tricks</a></small></p>
+]]></description>
+				<content:encoded><![CDATA[<p>Let's say you have a photographic image that really should be a JPG or WebP, for the best file size and quality. But what if I need transparency too? Don't I need PNG for that? Won't that make for either huge file sizes (PNG-24) or weird quality (PNG-8)? Let's look at another way that ends up best-of-both-worlds.</p>
+<p><span id="more-251557"></span></p>
+<figure id="post-251558" class="align-none media-251558"><img src="https://cdn.css-tricks.com/wp-content/uploads/2017/02/orig.jpg" alt="" srcset="https://cdn.css-tricks.com/wp-content/uploads/2017/02/orig.jpg 1378w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/orig-300x212.jpg 300w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/orig-768x542.jpg 768w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/orig-1024x722.jpg 1024w" sizes="(min-width: 1654px) 900px,
+       (min-width:   64em) calc( 56vw ),
+       100vw" /></p>
+<figcaption>The original photographic image.</figcaption>
+</figure>
+<p>The goal is to clip myself out of the image, removing the background. My technique for that is usually to use Photoshop and <a href="https://css-tricks.com/video-screencasts/22-cutting-clipping-paths/">cut a clipping path manually</a> with the Pen tool. </p>
+<figure id="post-251559" class="align-none media-251559"><img src="https://cdn.css-tricks.com/wp-content/uploads/2017/02/clip-path.jpg" alt="" srcset="https://cdn.css-tricks.com/wp-content/uploads/2017/02/clip-path.jpg 1020w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/clip-path-300x279.jpg 300w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/clip-path-768x715.jpg 768w" sizes="(min-width: 1654px) 900px,
+       (min-width:   64em) calc( 56vw ),
+       100vw" /></figure>
+<p>Now I can select the inverse of that clipping path to easily remove the background. </p>
+<p>Attempting to save this as a 1200px wide image as PNG-24 out of Photoshop ends up as about a 1MB image! </p>
+<figure id="post-251560" class="align-none media-251560"><img src="https://cdn.css-tricks.com/wp-content/uploads/2017/02/too-big.jpg" alt="" srcset="https://cdn.css-tricks.com/wp-content/uploads/2017/02/too-big.jpg 1500w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/too-big-300x198.jpg 300w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/too-big-768x507.jpg 768w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/too-big-1024x676.jpg 1024w" sizes="(min-width: 1654px) 900px,
+       (min-width:   64em) calc( 56vw ),
+       100vw" /></p>
+<figcaption>1MB is huge :(</figcaption>
+</figure>
+<p>We could cut that by 75% using PNG-8, but then we 1) get that weird Giffy look (less photographic) and 2) have to pick a matte color for the edges because we aren't getting nice alpha transparency here, just binary transparency.</p>
+<figure id="post-251561" class="align-none media-251561"><img src="https://cdn.css-tricks.com/wp-content/uploads/2017/02/png8.jpg" alt="" srcset="https://cdn.css-tricks.com/wp-content/uploads/2017/02/png8.jpg 884w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/png8-284x300.jpg 284w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/png8-768x811.jpg 768w" sizes="(min-width: 1654px) 900px,
+       (min-width:   64em) calc( 56vw ),
+       100vw" /></p>
+<figcaption>Much better file size, but quality is weird.</figcaption>
+</figure>
+<p>Gosh what if we could just use JPG? The quality and file size is <strong>way</strong> better. </p>
+<figure id="post-251562" class="align-none media-251562"><img src="https://cdn.css-tricks.com/wp-content/uploads/2017/02/jpg.jpg" alt="" srcset="https://cdn.css-tricks.com/wp-content/uploads/2017/02/jpg.jpg 776w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/jpg-267x300.jpg 267w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/jpg-768x863.jpg 768w" sizes="(min-width: 1654px) 900px,
+       (min-width:   64em) calc( 56vw ),
+       100vw" /></figure>
+<p>No transparency though.</p>
+<p>But wait! Can't we just clip this thing out? We have <a href="https://css-tricks.com/almanac/properties/c/clip/">clip-path</a> now. Well... yeah. We do have clip-path. It <a href="https://css-tricks.com/basic-shapes-path-never-twain-shall-meet/">can't take</a> a <code>path()</code>, though, and what we've created for vector points in Photoshop is path data. It could take a <code>polygon()</code> though, if we made all the lines straight. That's probably not ideal (I'm curvy!). Or we could make a <code>&lt;clipPath&gt;</code> element in some inline SVG and use <code>clip-path: url(#id_of_clipPath);</code>, which does support a <code>&lt;path&gt;</code> inside.</p>
+<p>There is <a href="https://css-tricks.com/clipping-masking-css/#article-header-id-5">masking</a> as well, which is another possibility. </p>
+<p>Let's look at a third possibility though: put everything into <code>&lt;svg&gt;</code>. That made some logical sense to me, so all this stays together and scales together.</p>
+<p>The trick is to make two things:</p>
+<ol>
+<li>The JPG</li>
+<li>The clipping <code>&lt;path&gt;</code></li>
+</ol>
+<p>The JPG is easy enough. Output that right from Photoshop. <a href="https://css-tricks.com/automatic-image-optimization-hazel-imageoptim/">Optimize</a>.</p>
+<p>Now we can set up the SVG. SVG is happy to take a raster graphic. SVG is known for vector graphics, but it's a very flexible image format. </p>
+<pre rel="HTML"><code class="language-markup">&lt;svg&gt;
+  &lt;image xlink:href="/images/chris.jpg" x="0" y="0"&gt;
+&lt;svg&gt;</code></pre>
+<p>To get the path, we export the path we created with the Pen tool over to Illustrator. </p>
+<figure id="post-251563" class="align-none media-251563"><img src="https://cdn.css-tricks.com/wp-content/uploads/2017/02/paths-to-illustrator.jpg" alt="" srcset="https://cdn.css-tricks.com/wp-content/uploads/2017/02/paths-to-illustrator.jpg 1064w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/paths-to-illustrator-262x300.jpg 262w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/paths-to-illustrator-768x879.jpg 768w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/paths-to-illustrator-895x1024.jpg 895w" sizes="(min-width: 1654px) 900px,
+       (min-width:   64em) calc( 56vw ),
+       100vw" /></figure>
+<p>Now we have the path over there, and it's easy to export as SVG:</p>
+<figure id="post-251564" class="align-none media-251564"><img src="https://cdn.css-tricks.com/wp-content/uploads/2017/02/clip-from-ai.jpg" alt="" srcset="https://cdn.css-tricks.com/wp-content/uploads/2017/02/clip-from-ai.jpg 1582w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/clip-from-ai-300x284.jpg 300w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/clip-from-ai-768x727.jpg 768w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/clip-from-ai-1024x970.jpg 1024w" sizes="(min-width: 1654px) 900px,
+       (min-width:   64em) calc( 56vw ),
+       100vw" /></figure>
+<p>Now we have the path data we need:</p>
+<figure id="post-251565" class="align-none media-251565"><img src="https://cdn.css-tricks.com/wp-content/uploads/2017/02/path-data.jpg" alt="" srcset="https://cdn.css-tricks.com/wp-content/uploads/2017/02/path-data.jpg 1672w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/path-data-300x117.jpg 300w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/path-data-768x299.jpg 768w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/path-data-1024x399.jpg 1024w" sizes="(min-width: 1654px) 900px,
+       (min-width:   64em) calc( 56vw ),
+       100vw" /></p>
+<figcaption>Even with all those points, this was 1.5K unoptimzed and ungzipped. Not much overhead.</figcaption>
+</figure>
+<p>Let's use that <code>&lt;path&gt;</code> within a <code>&lt;clipPath&gt;</code> in the SVG we've started. Then also apply that clip path to the <code>&lt;image&gt;</code>:</p>
+<pre rel="HTML"><code class="language-markup">&lt;svg viewBox="0 0 921.17 1409.71"&gt;
+  &lt;defs&gt;
+    &lt;clipPath id="chris-clip"&gt;
+      &lt;path d=" ... " /&gt;
+    &lt;/clipPath&gt;
+  &lt;/defs&gt;
+  &lt;image xlink:href="/images/chris.jpg" clip-path="url(#chris-clip)" x="0" y="0" width="921" height="1409"&gt;
+&lt;svg&gt;</code></pre>
+<p>Tada!</p>
+<figure class="align-none"><img src="https://css-tricks.com/images/done.gif" alt="" /></figure>
+<p>A transparent JPG, essentially.</p>
+<hr />
+<p><small><a rel="nofollow" href="https://css-tricks.com/transparent-jpg-svg/">Transparent JPG (With SVG)</a> is a post from <a rel="nofollow" href="https://css-tricks.com">CSS-Tricks</a></small></p>
+]]></content:encoded>
+			<wfw:commentRss>https://css-tricks.com/transparent-jpg-svg/feed/</wfw:commentRss>
+		<slash:comments>27</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">251557</post-id>	</item>
+		<item>
+		<title>Coding CSS for Context</title>
+		<link>https://snook.ca/archives/html_and_css/coding-css-for-context</link>
+		<comments>https://css-tricks.com/coding-css-context/#respond</comments>
+		<pubDate>Thu, 16 Feb 2017 14:40:26 +0000</pubDate>
+		<dc:creator><![CDATA[Chris Coyier]]></dc:creator>
+				<category><![CDATA[Link]]></category>
+		<category><![CDATA[naming]]></category>
+
+		<guid isPermaLink="false">https://css-tricks.com/?p=251555</guid>
+		<description><![CDATA[<p>Snook on naming a class:</p>
+<p>Here's what's important:</p>
+<ul>
+<li>We want to identify that this is a variation on our button.</li>
+<li>We want to indicate the purpose of this button style.</li>
+<li>We want to avoid tying the code to a particular context that could change.</li>
+</ul>
+<p><a href="https://snook.ca/archives/html_and_css/coding-css-for-context" title="Direct link to featured article">Direct Link to Article</a> &#8212; <a href="https://css-tricks.com/coding-css-context/">Permalink</a>&#8230;</p>
+<hr />
+<p><small><a rel="nofollow" href="https://css-tricks.com/coding-css-context/">Coding CSS for Context</a> is a post from <a rel="nofollow" href="https://css-tricks.com">CSS-Tricks</a></small></p>
+]]></description>
+				<content:encoded><![CDATA[<p>Snook on naming a class:</p>
+<blockquote><p>Here's what's important:</p>
+<ul>
+<li>We want to identify that this is a variation on our button.</li>
+<li>We want to indicate the purpose of this button style.</li>
+<li>We want to avoid tying the code to a particular context that could change.</li>
+</ul>
+</blockquote>
+<p><a href="https://snook.ca/archives/html_and_css/coding-css-for-context" title="Direct link to featured article">Direct Link to Article</a> &#8212; <a href="https://css-tricks.com/coding-css-context/">Permalink</a></p><hr />
+<p><small><a rel="nofollow" href="https://css-tricks.com/coding-css-context/">Coding CSS for Context</a> is a post from <a rel="nofollow" href="https://css-tricks.com">CSS-Tricks</a></small></p>
+]]></content:encoded>
+			<wfw:commentRss>https://css-tricks.com/coding-css-context/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">251555</post-id>	</item>
+		<item>
+		<title>Websites We Like: February 2017</title>
+		<link>https://css-tricks.com/websites-like-february-2017/</link>
+		<comments>https://css-tricks.com/websites-like-february-2017/#comments</comments>
+		<pubDate>Wed, 15 Feb 2017 14:19:22 +0000</pubDate>
+		<dc:creator><![CDATA[Robin Rendle]]></dc:creator>
+				<category><![CDATA[Article]]></category>
+		<category><![CDATA[Websites We Like]]></category>
+
+		<guid isPermaLink="false">https://css-tricks.com/?p=251083</guid>
+		<description><![CDATA[<p>It has been a while since we've taken stock of all the beautiful websites out there. Here's our favorites from the past couple of weeks!</p>
+</p>
+<p><a href="http://fuzzco.com/">Fuzzco</a></p>
+<p>Who says the web should scroll in one direction? Not the creative agency <a href="http://fuzzco.com/">Fuzzco</a> which on their homepage lets you navigate the page in a very interesting way and this compliments the visual design, too:</p>
+<p><a href="http://tuna-typeface.com/">Tuna</a></p>
+<p><a href="http://tuna-typeface.com/">Tuna</a> is a specimen for the typeface of the same name by Felix Braden and Alex Rütten. This &#8230;</p>
+<hr />
+<p><small><a rel="nofollow" href="https://css-tricks.com/websites-like-february-2017/">Websites We Like: February 2017</a> is a post from <a rel="nofollow" href="https://css-tricks.com">CSS-Tricks</a></small></p>
+]]></description>
+				<content:encoded><![CDATA[<p>It has been a while since we've taken stock of all the beautiful websites out there. Here's our favorites from the past couple of weeks!</p>
+<p><span id="more-251083"></span></p>
+<h3><a href="http://fuzzco.com/">Fuzzco</a></h3>
+<p>Who says the web should scroll in one direction? Not the creative agency <a href="http://fuzzco.com/">Fuzzco</a> which on their homepage lets you navigate the page in a very interesting way and this compliments the visual design, too:</p>
+<figure><video src="https://cdn.css-tricks.com/wp-content/uploads/2017/02/fuzzco.mp4" autoplay="true" autostart="true" loop="true" controls></video></figure>
+<h3><a href="http://tuna-typeface.com/">Tuna</a></h3>
+<p><a href="http://tuna-typeface.com/">Tuna</a> is a specimen for the typeface of the same name by Felix Braden and Alex Rütten. This serif is designed specifically for on-screen reading and so it looks beautiful even at small sizes:</p>
+<figure id="post-251088" class="align-none media-251088"><img src="https://cdn.css-tricks.com/wp-content/uploads/2017/02/Screenshot-2017-02-06-21.24.10.png" alt="" srcset="https://cdn.css-tricks.com/wp-content/uploads/2017/02/Screenshot-2017-02-06-21.24.10.png 2388w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/Screenshot-2017-02-06-21.24.10-300x175.png 300w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/Screenshot-2017-02-06-21.24.10-768x447.png 768w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/Screenshot-2017-02-06-21.24.10-1024x596.png 1024w" sizes="(min-width: 1654px) 900px,
+       (min-width:   64em) calc( 56vw ),
+       100vw" /></figure>
+<h3><a href="http://webfieldmanual.com/design.html">Web Field Manual</a></h3>
+<p><a href="http://webfieldmanual.com/design.html">The Web Field Manual</a> is a collection of articles about UX, UI and all-round general web design advice:</p>
+<figure id="post-251089" class="align-none media-251089"><img src="https://cdn.css-tricks.com/wp-content/uploads/2017/02/Screenshot-2017-02-06-21.28.59.png" alt="" srcset="https://cdn.css-tricks.com/wp-content/uploads/2017/02/Screenshot-2017-02-06-21.28.59.png 2392w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/Screenshot-2017-02-06-21.28.59-300x175.png 300w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/Screenshot-2017-02-06-21.28.59-768x448.png 768w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/Screenshot-2017-02-06-21.28.59-1024x597.png 1024w" sizes="(min-width: 1654px) 900px,
+       (min-width:   64em) calc( 56vw ),
+       100vw" /></figure>
+<p>But one of my favorite parts of this site is all the teeny tiny and subtle animations that you might miss if you happen to rush through it. Here’s one example where the title will animate upwards on load (I especially like the background triangles that animate in, too):</p>
+<figure id="post-251090" class="align-none media-251090"><img src="https://cdn.css-tricks.com/wp-content/uploads/2017/02/fieldmanual.gif" alt="" /></figure>
+<h3><a href="http://newacton.com.au/">New Acton</a></h3>
+<p>I’m not entirely sure what this website for <a href="http://newacton.com.au/">New Acton</a> is advertising (is it like a mall? Or an art space or something?) but either way the website is undeniably beautiful with illustrations that break up and shiver as you hover the cursor over them:</p>
+<figure id="post-251093" class="align-none media-251093"><img src="https://cdn.css-tricks.com/wp-content/uploads/2017/02/acton.gif" alt="" /></figure>
+<h3><a href="https://bumpers.fm/">Bumpers</a></h3>
+<p><a href="https://bumpers.fm/">Bumpers</a> is an app that lets you record audio and the website is pretty darn snazzy; there’s lots of inline SVG and peculiar full-screen illustrations to look at here. </p>
+<figure id="post-251095" class="align-none media-251095"><img src="https://cdn.css-tricks.com/wp-content/uploads/2017/02/Screenshot-2017-02-06-22.05.47.png" alt="" srcset="https://cdn.css-tricks.com/wp-content/uploads/2017/02/Screenshot-2017-02-06-22.05.47.png 2378w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/Screenshot-2017-02-06-22.05.47-300x162.png 300w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/Screenshot-2017-02-06-22.05.47-768x415.png 768w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/Screenshot-2017-02-06-22.05.47-1024x553.png 1024w" sizes="(min-width: 1654px) 900px,
+       (min-width:   64em) calc( 56vw ),
+       100vw" /></figure>
+<h3><a href="https://mailchimp.com/2016/">MailChimp’s 2016 Annual Report</a></h3>
+<p>A while back MailChimp made <a href="https://mailchimp.com/2016/">a beautiful annual report</a> with statistics about what the company has been up to over the past twelve months. What really stands out here are the animations and illustrations which perfectly compliment the humour and wit in the writing:</p>
+<figure id="post-251098" class="align-none media-251098"><img src="https://cdn.css-tricks.com/wp-content/uploads/2017/02/Screenshot-2017-02-06-22.17.03.png" alt="" srcset="https://cdn.css-tricks.com/wp-content/uploads/2017/02/Screenshot-2017-02-06-22.17.03.png 2514w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/Screenshot-2017-02-06-22.17.03-300x152.png 300w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/Screenshot-2017-02-06-22.17.03-768x389.png 768w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/Screenshot-2017-02-06-22.17.03-1024x518.png 1024w" sizes="(min-width: 1654px) 900px,
+       (min-width:   64em) calc( 56vw ),
+       100vw" /></figure>
+<figure id="post-251099" class="align-none media-251099"><img src="https://cdn.css-tricks.com/wp-content/uploads/2017/02/Screenshot-2017-02-06-22.15.20.png" alt="" srcset="https://cdn.css-tricks.com/wp-content/uploads/2017/02/Screenshot-2017-02-06-22.15.20.png 2532w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/Screenshot-2017-02-06-22.15.20-300x153.png 300w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/Screenshot-2017-02-06-22.15.20-768x391.png 768w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/Screenshot-2017-02-06-22.15.20-1024x521.png 1024w" sizes="(min-width: 1654px) 900px,
+       (min-width:   64em) calc( 56vw ),
+       100vw" /></figure>
+<hr>
+<p>OK, so that's it until next time! Oh and make sure to add a comment below if there's any delightful websites that you think we should take a look at.</p>
+<hr />
+<p><small><a rel="nofollow" href="https://css-tricks.com/websites-like-february-2017/">Websites We Like: February 2017</a> is a post from <a rel="nofollow" href="https://css-tricks.com">CSS-Tricks</a></small></p>
+]]></content:encoded>
+			<wfw:commentRss>https://css-tricks.com/websites-like-february-2017/feed/</wfw:commentRss>
+		<slash:comments>5</slash:comments>
+<enclosure url="https://cdn.css-tricks.com/wp-content/uploads/2017/02/fuzzco.mp4" length="717471" type="video/mp4" />
+	<post-id xmlns="com-wordpress:feed-additions:1">251083</post-id>	</item>
+		<item>
+		<title>Creating Non-Rectangular Headers</title>
+		<link>https://css-tricks.com/creating-non-rectangular-headers/</link>
+		<comments>https://css-tricks.com/creating-non-rectangular-headers/#comments</comments>
+		<pubDate>Tue, 14 Feb 2017 14:56:24 +0000</pubDate>
+		<dc:creator><![CDATA[Erik Kennedy]]></dc:creator>
+				<category><![CDATA[Article]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[headers]]></category>
+		<category><![CDATA[SVG]]></category>
+
+		<guid isPermaLink="false">https://css-tricks.com/?p=250823</guid>
+		<description><![CDATA[<p>Over at Medium, Jon Moore recently identified "non-rectangular headers" as a <a href="https://medium.com/ux-power-tools/tiny-trends-1-non-rectangular-headers-e8d2d4ee578f">tiny trend</a>. A la: it's not crazy popular yet, but just you wait, kiddo.</p>
+<p>We're talking about headers (or, more generally, any container element) that have a non-rectangular shape. Such as <strong>trapezoids</strong>, <strong>complex geometric shapes</strong>, <strong>rounded/elliptical</strong>, or even <strong>butt-cheek shaped</strong>.</p>
+<hr />
+<p><small><a rel="nofollow" href="https://css-tricks.com/creating-non-rectangular-headers/">Creating Non-Rectangular Headers</a> is a post from <a rel="nofollow" href="https://css-tricks.com">CSS-Tricks</a></small></p>
+]]></description>
+				<content:encoded><![CDATA[<p>Over at Medium, Jon Moore recently identified "non-rectangular headers" as a <a href="https://medium.com/ux-power-tools/tiny-trends-1-non-rectangular-headers-e8d2d4ee578f">tiny trend</a>. A la: it's not crazy popular yet, but just you wait, kiddo.</p>
+<p><span id="more-250823"></span></p>
+<p>We're talking about headers (or, more generally, any container element) that have a non-rectangular shape.</p>
+<p>Such as <strong>trapezoids</strong>:</p>
+<figure id="post-250826" class="align-none media-250826"><img src="https://cdn.css-tricks.com/wp-content/uploads/2017/02/artboard_hero_banner.jpg" alt="" width="400" /></p>
+<figcaption><a href="https://dribbble.com/shots/3192923-Hero-Banner-Mobile-First-Concept">By Patrick Kantor</a><br />
+</figcaption>
+</figure>
+<p>Or more <strong>complex geometric shapes</strong>:</p>
+<figure id="post-251490" class="align-none media-251490"><img src="https://cdn.css-tricks.com/wp-content/uploads/2017/02/movies.png" alt="" width="400" srcset="https://cdn.css-tricks.com/wp-content/uploads/2017/02/movies.png 800w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/movies-300x225.png 300w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/movies-768x576.png 768w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/movies-399x300.png 399w" sizes="(min-width: 1654px) 900px,
+       (min-width:   64em) calc( 56vw ),
+       100vw" /></p>
+<figcaption><a href="https://dribbble.com/shots/3192224-Robin-Movies">Robin Movies by Asar Morris</a></figcaption>
+</figure>
+<figure id="post-250828" class="align-none media-250828"><img src="https://cdn.css-tricks.com/wp-content/uploads/2017/02/artboard_hero_banner.jpg" alt="" width="400" /></p>
+<figcaption>By Marc Clancy</figcaption>
+</figure>
+<p>Or <strong>rounded/elliptical</strong>:</p>
+<figure id="post-250830" class="align-none media-250830"><img src="https://cdn.css-tricks.com/wp-content/uploads/2017/02/artboard_hero_banner.jpg" alt="" width="400" /></p>
+<figcaption><a href="https://dribbble.com/shots/3189803-Music-Streaming-Apps-Landing-Page">Music app landing page by Ibnu Mas'ud</a></figcaption>
+</figure>
+<p>Or even <strong>butt-cheek shaped</strong>:</p>
+<figure id="post-250831" class="align-none media-250831"><img src="https://cdn.css-tricks.com/wp-content/uploads/2017/02/artboard_hero_banner.jpg" alt="" width="400" /></p>
+<figcaption><a href="https://dribbble.com/shots/3206688-Plutio-landing-page">Plutio by Leo Bassam.</a> Sorry Leo, I can't unsee it. And now, dear reader, you can't either.</figcaption>
+</figure>
+<p>My money is on these gaining popularity too. So let's beat the crowd, and talk about a few ways of coding these up. Because let's face it: they do look pretty awesome.</p>
+<h3>Image</h3>
+<p>Perhaps the simplest way to create any of the non-rectangular headers pictured above is to slap an image on top of your header.</p>
+<p data-height="434" data-theme-id="1" data-slug-hash="pRVbzx" data-default-tab="result" data-user="erikdkennedy" data-embed-version="2" data-pen-title="Image file-based non-rectangular header" class="codepen">See the Pen <a href="http://codepen.io/erikdkennedy/pen/pRVbzx/">Image file-based non-rectangular header</a> by Erik Kennedy (<a href="http://codepen.io/erikdkennedy">@erikdkennedy</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<p>But there are a few issues here:</p>
+<ul>
+<li>Responsive behavior? These masks tend to be full-width, and it becomes tedious to define multiple widths of the shape (e.g. srcset) or risk pixelation of raster assets.</li>
+<li>It's a totally separate file that needs to be fetched from the server – seems wasteful for simple shapes.</li>
+<li>It's slow to iterate in-browser if you have to re-export an image file(s) from your design program.</li>
+</ul>
+<p>We can solve all of these problems at once. You might already know where <em>this</em> one is going.</p>
+<h3>SVG</h3>
+<p>Compared to exporting a JPG from Sketch, using an inline SVG is more performant, easy to make responsive, and easy to iterate the design of. In fact, for most cases, this is the way I'd recommend using. Versatile, cross-browser, vector, and fabulous.</p>
+<p data-height="434" data-theme-id="1" data-slug-hash="ygpwZg" data-default-tab="result" data-user="erikdkennedy" data-embed-version="2" data-pen-title="SVG trapezoidal header" class="codepen">See the Pen <a href="http://codepen.io/erikdkennedy/pen/ygpwZg/">SVG trapezoidal header</a> by Erik Kennedy (<a href="http://codepen.io/erikdkennedy">@erikdkennedy</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<p>With an angled background one like, one choice you have to make is: what should remain constant as the screen-width changes, the angle or the height differential between the two sides?</p>
+<p>If you want the <em>angle</em> to remain constant, set the height of the SVG in vw:</p>
+<figure id="post-250832" class="align-none media-250832"><img src="https://cdn.css-tricks.com/wp-content/uploads/2017/02/image06.png" alt="" srcset="https://cdn.css-tricks.com/wp-content/uploads/2017/02/image06.png 725w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/image06-300x108.png 300w" sizes="(min-width: 1654px) 900px,
+       (min-width:   64em) calc( 56vw ),
+       100vw" /></figure>
+<p>If you want the height differential to remain constant, set the height of the SVG in pixels:</p>
+<figure id="post-250833" class="align-none media-250833"><img src="https://cdn.css-tricks.com/wp-content/uploads/2017/02/image04.png" alt="" srcset="https://cdn.css-tricks.com/wp-content/uploads/2017/02/image04.png 728w, https://cdn.css-tricks.com/wp-content/uploads/2017/02/image04-300x110.png 300w" sizes="(min-width: 1654px) 900px,
+       (min-width:   64em) calc( 56vw ),
+       100vw" /></figure>
+<p>And you need not pick just one – we can style this responsively, since SVG elements are subject to media queries. Check out this geometric style header at widths below and above 700px.</p>
+<p data-height="500" data-theme-id="1" data-slug-hash="zNpXee" data-default-tab="result" data-user="erikdkennedy" data-embed-version="2" data-pen-title="Responsive SVG header" class="codepen">See the Pen <a href="http://codepen.io/erikdkennedy/pen/zNpXee/">Responsive SVG header</a> by Erik Kennedy (<a href="http://codepen.io/erikdkennedy">@erikdkennedy</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<p>Shoot, son. What's not to love? Oh, and we can even do the butt-cheeks style.</p>
+<p data-height="500" data-theme-id="1" data-slug-hash="xgpevv" data-default-tab="result" data-user="erikdkennedy" data-embed-version="2" data-pen-title="SVG "butt-cheeks" header" class="codepen">See the Pen <a href="http://codepen.io/erikdkennedy/pen/xgpevv/">SVG "butt-cheeks" header</a> by Erik Kennedy (<a href="http://codepen.io/erikdkennedy">@erikdkennedy</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<p>(Perhaps that's more properly done with beziers, but you get the idea!)</p>
+<p>One more thing worth nothing, and that is if you want to do an SVG background <em>entirely</em> in CSS, you could save the SVG and reference its URL in a pseudo element.</p>
+<pre rel="CSS"><code class="language-css">header::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 100px;
+  background: url(divider.svg);
+}</code></pre>
+<p>And if you use `divider.svg` as a repeating element in different scenarios, you can also color it different as you need:</p>
+<pre rel="CSS"><code class="language-css">header::after polygon {
+  fill: white;
+}</code></pre>
+<p>But here's an issue: what if the section below the header has a complicated background? In all these examples so far, we've just assumed a plain white background. What if there's a fancy gradient, or another background image or something? Then what?</p>
+<h3>clip-path</h3>
+<p>This property comes to the rescue if you have a moderately complex background below the header, and therefore want the masking to be done from <em>within</em> the non-rectangular header, as opposed to by an element <em>after</em> it.</p>
+<p data-height="500" data-theme-id="1" data-slug-hash="KaZLwe" data-default-tab="result" data-user="erikdkennedy" data-embed-version="2" data-pen-title="Non-Rectangular Header Using Clip-Path " class="codepen">See the Pen <a href="http://codepen.io/erikdkennedy/pen/KaZLwe/">Non-Rectangular Header Using Clip-Path </a> by Erik Kennedy (<a href="http://codepen.io/erikdkennedy">@erikdkennedy</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<p>And like the similar SVG syntax, if you want to change the responsive behavior of the above from <em>angle-is-held-constant</em> to <em>height-differential-is-held-constant</em>, you can change the calculated height to a simple percentage.</p>
+<p>Clip-path's biggest downside? Browser support is <a href="http://caniuse.com/#feat=css-clip-path">not that great</a>. However, depending on how important your non-rectangular header or div is, it might qualify as a progressive enhancement. In which case, clip-path away!</p>
+<h3>border-radius</h3>
+<p>Now, up to now, we've only mentioned methods that work for generating all the shapes I called out above. However, if we know what particular shape we want our header to have, we might have access to an easier way.</p>
+<p>For instance, a <em>convex</em> elliptical header is a perfect fit for <code>border-radius</code>.</p>
+<p data-height="500" data-theme-id="1" data-slug-hash="NdXVdM" data-default-tab="result" data-user="erikdkennedy" data-embed-version="2" data-pen-title="Convex elliptical header" class="codepen">See the Pen <a href="http://codepen.io/erikdkennedy/pen/NdXVdM/">Convex elliptical header</a> by Erik Kennedy (<a href="http://codepen.io/erikdkennedy">@erikdkennedy</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<p>And a concave elliptical header could simply have the border-radius on the element after the header.</p>
+<pre rel="CSS"><code class="language-css">section {
+  border-bottom-left-radius: 50% 20%;
+  border-bottom-right-radius: 50% 20%;
+}</code></pre>
+<p>Another benefit to this method is that the background of the section below the header could still have background images.</p>
+<h3>transform: skew</h3>
+<p>If we know that we want to create do a trapezoidal header, we can use a CSS transform to skew the whole thing.</p>
+<p data-height="500" data-theme-id="1" data-slug-hash="EZozpV" data-default-tab="result" data-user="erikdkennedy" data-embed-version="2" data-pen-title="Trapezoid Header Using Transform: SkewY" class="codepen">See the Pen <a href="http://codepen.io/erikdkennedy/pen/EZozpV/">Trapezoid Header Using Transform: SkewY</a> by Erik Kennedy (<a href="http://codepen.io/erikdkennedy">@erikdkennedy</a>) on <a href="http://codepen.io">CodePen</a>.</p>
+<p>This has the side effect of skewing any child elements of the skewed element, so you’ll want to add a child element in the header that gets skewed, and everything else will go in sibling elements.</p>
+<figure id="post-250834" class="align-none media-250834"><img src="https://cdn.css-tricks.com/wp-content/uploads/2017/02/skewed.png" alt="" /></p>
+<figcaption>Skewed.</figcaption>
+</figure>
+<figure id="post-250835" class="align-none media-250835"><img src="https://cdn.css-tricks.com/wp-content/uploads/2017/02/skewed.png" alt="" /></p>
+<figcaption>And unskewed.</figcaption>
+</figure>
+<p>Stripe's homepage design uses this method, and even more brilliantly, they include a few children spans (each is a block of color) that get skewed with the parent element, creating a more complex and colorful effect.</p>
+<h3>Which is best?</h3>
+<p>As far as I'm concerned, SVG is generally the way to go. However, if you have a more complex background below the header, then the best choice depends on the shape. In that case, I'd investigate if <code>skew</code> or <code>border-radius</code> could meet the art direction needed, or if browser support was enough of a non-issue to go with <code>clip-path</code>.</p>
+<table>
+<thead>
+<tr>
+<td></td>
+<th>Allows complex BG below</th>
+<th>Browser support</th>
+<th>Shapes creatable</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>Image</th>
+<td>No</td>
+<td>Yes</td>
+<td>All</td>
+</tr>
+<tr>
+<th>SVG</th>
+<td>No</td>
+<td>Yes</td>
+<td>All</td>
+</tr>
+<tr>
+<th>Clip-path</th>
+<td>Yes</td>
+<td>No</td>
+<td>All</td>
+</tr>
+<tr>
+<th>Border-radius</th>
+<td>Yes</td>
+<td>Yes</td>
+<td>Elliptical only</td>
+</tr>
+<tr>
+<th>Transform: skew</th>
+<td>Yes</td>
+<td>Yes</td>
+<td>Trapezoidal only</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<div id="erik-course-promo">
+<div class="erik-course-promo-img"><a href="http://learnui.design/"><img src="https://cdn.css-tricks.com/wp-content/uploads/2017/02/learn-ui-design-css-tricks-promo-img.png" alt="" /></a></div>
+<p>Erik Kennedy is an independent UX/UI designer and the creator of <a href="http://learnui.design/">Learn UI Design</a>, a practical online video course about visual design for screens. Includes color, typography, process, and more. Over 16 hours of video across 30+ lessons.</p>
+</div>
+<hr />
+<p><small><a rel="nofollow" href="https://css-tricks.com/creating-non-rectangular-headers/">Creating Non-Rectangular Headers</a> is a post from <a rel="nofollow" href="https://css-tricks.com">CSS-Tricks</a></small></p>
+]]></content:encoded>
+			<wfw:commentRss>https://css-tricks.com/creating-non-rectangular-headers/feed/</wfw:commentRss>
+		<slash:comments>23</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">250823</post-id>	</item>
+		<item>
+		<title>Most of the web really sucks if you have a slow connection</title>
+		<link>https://danluu.com/web-bloat/</link>
+		<comments>https://css-tricks.com/web-really-sucks-slow-connection/#respond</comments>
+		<pubDate>Tue, 14 Feb 2017 14:19:51 +0000</pubDate>
+		<dc:creator><![CDATA[Robin Rendle]]></dc:creator>
+				<category><![CDATA[Link]]></category>
+		<category><![CDATA[performance]]></category>
+
+		<guid isPermaLink="false">https://css-tricks.com/?p=251477</guid>
+		<description><![CDATA[<p>Dan Luu on the sorry state of web performance:</p>
+<p>...it’s not just nerds like me who care about web performance. In the U.S., AOL alone had over 2 million dialup users in 2015. Outside of the U.S., there are even more people with slow connections.</p>
+<p>This other note is also interesting, and I think that Dan is talking about <a href="http://blog.chriszacharias.com/page-weight-matters">Youtube’s project “Feather”</a> here:</p>
+<p>When I was at Google, someone told me a story about a time that “they” completed a &#8230;</p>
+<hr />
+<p><small><a rel="nofollow" href="https://css-tricks.com/web-really-sucks-slow-connection/">Most of the web really sucks if you have a slow connection</a> is a post from <a rel="nofollow" href="https://css-tricks.com">CSS-Tricks</a></small></p>
+]]></description>
+				<content:encoded><![CDATA[<p>Dan Luu on the sorry state of web performance:</p>
+<blockquote><p>...it’s not just nerds like me who care about web performance. In the U.S., AOL alone had over 2 million dialup users in 2015. Outside of the U.S., there are even more people with slow connections.</p></blockquote>
+<p>This other note is also interesting, and I think that Dan is talking about <a href="http://blog.chriszacharias.com/page-weight-matters">Youtube’s project “Feather”</a> here:</p>
+<blockquote><p>When I was at Google, someone told me a story about a time that “they” completed a big optimization push only to find that measured page load times increased. When they dug into the data, they found that the reason load times had increased was that they got a lot more traffic from Africa after doing the optimizations. The team’s product went from being unusable for people with slow connections to usable, which caused so many users with slow connections to start using the product that load times actually increased.</p></blockquote>
+<p><a href="https://danluu.com/web-bloat/" title="Direct link to featured article">Direct Link to Article</a> &#8212; <a href="https://css-tricks.com/web-really-sucks-slow-connection/">Permalink</a></p><hr />
+<p><small><a rel="nofollow" href="https://css-tricks.com/web-really-sucks-slow-connection/">Most of the web really sucks if you have a slow connection</a> is a post from <a rel="nofollow" href="https://css-tricks.com">CSS-Tricks</a></small></p>
+]]></content:encoded>
+			<wfw:commentRss>https://css-tricks.com/web-really-sucks-slow-connection/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">251477</post-id>	</item>
+	</channel>
+</rss>
+

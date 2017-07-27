@@ -1,0 +1,19 @@
+.dir-list {
+  padding: 0;
+  background-color: var(--dirlist-bg-color);
+  color: var(--dirlist-fg-color);
+  border-right: 1px solid var(--separator-color);
+}
+
+.dir-list__li {
+  padding: 0.8em 0.6em;
+  cursor: pointer;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.dir-list__li:hover {
+  background-color: var(--dirlist-bg-hover-color);
+  color: var(--dirlist-fg-hover-color);
+}
