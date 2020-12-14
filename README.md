@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/cross-platform-desktop-application-development-electron-node-nw-js-and-react/9781788295697)
+-----
+*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1788295692).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Cross-platform Desktop Application Development: Electron, Node, NW.js, and React
 This is the code repository for [Cross-platform Desktop Application Development: Electron, Node, NW.js, and React](https://www.packtpub.com/web-development/cross-platform-desktop-application-development-electron-node-nwjs-and-react?utm_source=github&utm_medium=repository&utm_campaign=9781788295697), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
